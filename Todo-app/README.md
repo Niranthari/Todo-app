@@ -17,3 +17,6 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Niranthari/Todo-app.git
+
+### Contact
+Feel free to modify and expand upon this template to fit your project's specific needs. Let me know if you need any further assistance!
